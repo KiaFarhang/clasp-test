@@ -1,0 +1,14 @@
+{
+  "name": "script-test",
+  "version": "0.0.0",
+  "description": "Testing Clasp for Google Apps Scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/google-apps-script": "^1.0.37"
+  }
+}
